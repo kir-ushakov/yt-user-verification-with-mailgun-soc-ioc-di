@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mailgun.js": "^9.3.0",
+    "mongoose": "^6.6.4"
+  }
+}
